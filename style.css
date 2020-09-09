@@ -1,0 +1,73 @@
+header{
+
+    position: fixed;
+    width: 2000px;
+    height: 140px;
+    left: -5px;
+    top: 0;
+    background-color:rgba(84, 99, 229, 0.46);
+    margin-top: 0px;
+}
+h1{
+    position: absolute;
+    left: 50px;
+    top: 40px;
+}
+.contact{
+    position: relative;
+    left: 950px;
+}
+
+h2{
+    position: relative;
+    background-color:gray;
+    width: 200x;
+    height: 150px;
+    top: 60px;
+    left: 0px;
+    right: 0px;
+    margin-top: 0px;
+    text-align: center;
+    font: Arial, sans-serif;
+    color: #261a0d;
+}
+.competences {
+    position: relative;
+
+
+
+}
+.qualites{
+    position: relative;
+
+}
+.langues{
+    position: relative;
+
+}
+.atouts{
+    position: relative;
+
+}
+
+.formations_competences{
+    position: relative;
+
+}
+.formations{
+    position: relative;
+    
+}
+
+.experience{
+    position: relative;
+
+}
+.date{
+    font-weight: bold;
+
+}
+.place{
+    font-style: italic;
+
+}
